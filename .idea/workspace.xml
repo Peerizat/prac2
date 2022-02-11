@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e781be06-8ad8-40d9-9143-c16c143b8764" name="Changes" comment="initial commit">
+    <list default="true" id="e781be06-8ad8-40d9-9143-c16c143b8764" name="Changes" comment="work 2 is done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644553854829</updated>
-      <workItem from="1644553856114" duration="2236000" />
+      <workItem from="1644553856114" duration="3945000" />
+      <workItem from="1644565270282" duration="244000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1644556783577</created>
@@ -65,7 +65,28 @@
       <option name="project" value="LOCAL" />
       <updated>1644556783577</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="work 1 is done">
+      <created>1644562957670</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644562957670</updated>
+    </task>
+    <task id="LOCAL-00003" summary="work 2 is done">
+      <created>1644563003113</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644563003113</updated>
+    </task>
+    <task id="LOCAL-00004" summary="work 2 is done">
+      <created>1644563431287</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644563431287</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +105,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="work 1 is done" />
+    <MESSAGE value="work 2 is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="work 2 is done" />
   </component>
 </project>
