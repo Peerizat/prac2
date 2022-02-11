@@ -7,5 +7,7 @@ public class HelloWorld {
         //work2
 
         System.out.println("JAVA");
+
+        //work3
     }
 }
