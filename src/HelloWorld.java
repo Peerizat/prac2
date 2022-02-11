@@ -4,6 +4,8 @@ public class HelloWorld {
         //comments
         System.out.println("Hello World");
 
-        //work2 
+        //work2
+
+        System.out.println("JAVA");
     }
 }
